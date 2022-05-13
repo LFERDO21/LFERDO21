@@ -8,9 +8,22 @@
 
 
 ## Cursos vistos
-- Git y GitHub
+>
+### Basico (Frontend con HTML y CSS)
+- Curso Profesional de Git y GitHub 
 - Curso de Computación Básica
 - Curso Gratis de Programación Básica
+- Curso Básico de Algoritmos y Pensamiento Lógico  
+- Curso de Introducción a la Web: Historia y Funcionamiento de Internet  
+
+### Intermedio (Frontend con JavaScript)
+- 
+- 
+- 
+### Avanzado (Frontend con Frameworks y Librerías de JavaScript)
+- 
+- 
+- 
 
 
 [<img
